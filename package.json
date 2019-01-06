@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "globby": "^8.0.1",
+    "puppeteer": "^1.11.0"
+  }
+}
